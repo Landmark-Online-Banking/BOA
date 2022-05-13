@@ -1,0 +1,2 @@
+useradd mohamed
+useradd mohamedsalvador
